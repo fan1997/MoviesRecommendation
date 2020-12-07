@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /root/TrainAls/target/scala-2.11/trainals_2.11-1.0.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	TrainALSModel$$anonfun$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/TrainAls/target/scala-2.11/classes/TrainALSModel$$anonfun$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	TrainALSModel$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/TrainAls/target/scala-2.11/classes/TrainALSModel$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	TrainALSModel$$anonfun$5.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/TrainAls/target/scala-2.11/classes/TrainALSModel$$anonfun$5.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	TrainALSModel$$anonfun$4.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/TrainAls/target/scala-2.11/classes/TrainALSModel$$anonfun$4.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	TrainALSModel$$anonfun$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/TrainAls/target/scala-2.11/classes/TrainALSModel$$anonfun$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	TrainALSModel.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/TrainAls/target/scala-2.11/classes/TrainALSModel.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	TrainALSModel$$anonfun$3.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/TrainAls/target/scala-2.11/classes/TrainALSModel$$anonfun$3.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	TrainALSModel$$anonfun$6.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/TrainAls/target/scala-2.11/classes/TrainALSModel$$anonfun$6.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J

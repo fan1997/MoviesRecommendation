@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /root/SqlMovie/target/scala-2.11/sqlmovie_2.11-1.0.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSql$$anonfun$3.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/SqlMovie/target/scala-2.11/classes/SparkSql$$anonfun$3.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSql$$typecreator3$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/SqlMovie/target/scala-2.11/classes/SparkSql$$typecreator3$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSql$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/SqlMovie/target/scala-2.11/classes/SparkSql$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSql$$typecreator7$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/SqlMovie/target/scala-2.11/classes/SparkSql$$typecreator7$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSql$$anonfun$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/SqlMovie/target/scala-2.11/classes/SparkSql$$anonfun$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSql.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/SqlMovie/target/scala-2.11/classes/SparkSql.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSql$$anonfun$4.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/SqlMovie/target/scala-2.11/classes/SparkSql$$anonfun$4.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSql$$anonfun$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/SqlMovie/target/scala-2.11/classes/SparkSql$$anonfun$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J

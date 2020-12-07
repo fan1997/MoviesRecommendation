@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /root/MovieRecommendAls/target/scala-2.11/alsmovierec_2.11-1.0.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$main$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$main$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$10.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$10.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$main$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$main$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$4.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$4.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$7.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$7.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$3.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$3.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$5.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$5.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$9.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$9.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$8.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$8.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$6.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$6.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendALS$$anonfun$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/MovieRecommendAls/target/scala-2.11/classes/RecommendALS$$anonfun$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
