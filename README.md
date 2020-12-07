@@ -8,9 +8,20 @@ Main tools: Hadoop + Spark mllib(ALS) + Spark sql
 
 ## Usage
 
-we have 2 ways to try this project. One is simple in linux shell file. Another one is more detail.
+Firstly，pull spark docker image from dockerhub.
 
-## Shell file
+### Pull spark docker image
+
+```shell
+docker pull singularities/spark
+docker images
+```
+
+
+
+Then we have 2 ways to try this project. One is simple in linux shell file. Another one is more detail.
+
+### Shell file
 
 #### Clone from github
 
