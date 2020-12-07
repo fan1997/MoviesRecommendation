@@ -8,12 +8,19 @@ Main tools: Hadoop + Spark mllib(ALS) + Spark sql
 
 ## Usage
 
-Firstly，pull spark docker image from dockerhub.
+Firstly，pull spark docker image from dockerhub or load the local docker image file.
 
 ### Pull spark docker image
 
 ```shell
 docker pull singularities/spark
+docker images
+```
+
+### Loading local image file
+
+```shell
+docker load < sparkimage.tar
 docker images
 ```
 
